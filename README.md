@@ -6,3 +6,5 @@
 https://discord.gg/nbFRzRjyTa
 # Bilgi 😎
 Star atmayı ve sunucumuza katılmayı unutmayın!
+# Not ❗
+Modülleri Yüklemezseniz Komutlarınız Çalışmaz!
