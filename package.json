@@ -1,8 +1,8 @@
 {
   "name": "gways",
   "version": "1.0.0",
-  "description": "Space Giveaway Alt yapı",
-  "main": "space-giveaway.js",
+  "description": "Didreg Bot Alt yapı",
+  "main": "didreg.js",
   "dependencies": {
     "@mapbox/node-pre-gyp": "^1.0.5",
     "canvacord": "^5.2.3",
@@ -34,7 +34,7 @@
     "axios": "^0.24.0"
   },
   "scripts": {
-    "start": "node space-giveaway.js"
+    "start": "node didreg.js"
   },
   "engines": {
     "node": "16.x"
