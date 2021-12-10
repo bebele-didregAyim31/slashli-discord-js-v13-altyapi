@@ -1,5 +1,5 @@
 # slashli-discord-js-v13-altyapi
-# Kurulum 😋
+# Kurulum ✅
 - .env' e TOKEN=token yapın sonra botun açılmasını bekleyin
 - Developer portal da slash command oluşturma falan yapın davet edin bitti.
 # Destek 🌐
